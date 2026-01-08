@@ -421,7 +421,6 @@ Contributions are welcome! Please follow these steps:
 
 5. Bishop, C. M. (2006). *Pattern Recognition and Machine Learning.* Springer.
 
-[See full references in the paper]
 
 <p align="center">
   Made with ❤️ for advancing medical AI diagnostics
